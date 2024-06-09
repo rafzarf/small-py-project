@@ -4,11 +4,12 @@ A small Python project to solidify my Python programming skills.
 
 ## Description
 
-This project aims to foster my programming skills, specifically in python, because I am aspiring to be a AI/ML Engineer. 
+This project aims to foster my programming skills, specifically in python, because I am aspiring to be an AI/ML Engineer. 
 
 ## Features
 
-- [List the main features and functionalities of your project]
+- Caesar Chiper: I have already implemented scripts for the Substitution Cipher, Vigenere Cipher, and Autokey Vigenere Cipher.
+
 
 ## Installation
 
@@ -30,18 +31,5 @@ This project aims to foster my programming skills, specifically in python, becau
     pip install -r requirements.txt
     ```
 
-## Usage
-
-1. [Provide instructions on how to use your project]
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
-## License
-
-[Specify the license under which your project is distributed]
-
-## Contact
-
-[Provide your contact information if you want to be reached for questions or collaboration]
+# To-do List
+- [ ] Adding a website GUI to do encrypt and decrypt
